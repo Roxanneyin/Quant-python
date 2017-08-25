@@ -18,14 +18,3 @@ def is_palindrom(n):
         return True
     else:
         return False
-
-def foo(n):
-    if n == 1:
-        return 0
-    elif n == 2:
-        return -3
-    else:
-        while False:
-            return 7
-        for i in range(3):
-            print(3)
